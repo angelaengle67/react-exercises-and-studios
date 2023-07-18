@@ -1,0 +1,33 @@
+[
+    {
+        "name": "Stardew Valley",
+        "developer": "ConcernedApe",
+        "photoUrl": "https://assets-prd.ignimgs.com/2021/12/20/stardewvalley-1640044262769.jpg",
+        "alt": "Farming Sim"
+     },
+
+     {
+        "name": "Portal",
+        "developer": "Valve",
+        "photoUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/400/capsule_616x353.jpg?t=1682715069",
+        "alt": "Puzzle"
+     },
+     {
+        "name": "Bioshock",
+        "developer": "2K",
+        "photoUrl": "https://m.media-amazon.com/images/M/MV5BNjBkZmI4NzktZTJmMC00NDNlLTk2M2ItNGEwODUxZGEwNmZiXkEyXkFqcGdeQXVyNTgyNTA4MjM@._V1_FMjpg_UX1000_.jpg",
+        "alt": "FPS Horror"
+     },
+     {
+        "name": "Let's Build a Zoo",
+        "developer": "Springloaded",
+        "photoUrl": "https://i.ytimg.com/vi/fpAWOLzu6Do/maxresdefault.jpg",
+        "alt": "Zoo Sim"
+     },
+     {
+        "name": "The Sims 4",
+        "developer": "Maxis",
+        "photoUrl": "https://image.api.playstation.com/vulcan/img/rnd/202111/3019/oXPtJkwSeNlYon2MqTX9K4sQ.png",
+        "alt": "Life Sim"
+     }
+]
